@@ -83,4 +83,4 @@ Let's use a really simple example. Make a new directory in the top level of this
 
 8. Now, visit [http://localhost:9292](http://localhost:9292) in your browser and look at the output in your terminal. You should now see the order in which the middleware was called. First, the top-most piece of middleware is called, which triggers the next piece of middleware, and then finally our app. Looking in your browser, you can see the final, built-up response.
 
-<a href='https://learn.co/lessons/middleware-tutorial' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/middleware-tutorial' title='Using Middleware'>Using Middleware</a> on Learn.co and start learning to code for free.</p>
